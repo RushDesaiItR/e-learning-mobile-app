@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+    <defs>
+        <style>
+            .cls-1{fill:#a8b7d4}.cls-2{fill:#446aa9}.cls-3{fill:#8394b2}.cls-4{fill:#365587}.cls-6{fill:#bd731c}.cls-7{fill:#f2a142}.cls-8{fill:#fff}.cls-9{fill:#b0582a}.cls-11{fill:#dd933c}
+        </style>
+    </defs>
+    <g id="_08-Book" data-name="08-Book" transform="translate(-1 -1)">
+        <path id="Path_21245" d="M58.14 60.16a1 1 0 0 1-.99.84h-.3a1 1 0 0 1-.99-.84L55 55h4z" class="cls-1" data-name="Path 21245"/>
+        <path id="Path_21246" d="M59 6v7h-4V5a2 2 0 0 1 4 0z" class="cls-1" data-name="Path 21246"/>
+        <path id="Rectangle_2306" d="M0 0H4V42H0z" class="cls-2" data-name="Rectangle 2306" transform="translate(55 13)"/>
+        <path id="Path_21247" d="M63 21h-2V8a1 1 0 0 0-1-1h-1V5h1a3 3 0 0 1 3 3z" class="cls-3" data-name="Path 21247"/>
+        <path id="Path_21248" d="M58 11a1 1 0 0 1-1-1V3a2.006 2.006 0 0 0-2 2v8h4v-2z" class="cls-3" data-name="Path 21248"/>
+        <path id="Path_21249" d="M58 53a1 1 0 0 1-1-1V13h-2v42h4v-3a1 1 0 0 1-1 1z" class="cls-4" data-name="Path 21249"/>
+        <path id="Path_21250" d="M57 58v-3h-2l.86 5.16a1 1 0 0 0 .99.84h.3a1 1 0 0 0 .99-.84l.193-1.16H58a1 1 0 0 1-1-1z" class="cls-3" data-name="Path 21250"/>
+        <path id="Path_21251" fill="#e63b47" d="M13 60v3l-3-2-3 2v-6h6z" data-name="Path 21251"/>
+        <path id="Path_21252" d="M5 57h2v3H5a4 4 0 0 1-4-4v-3a4 4 0 0 0 4 4z" class="cls-6" data-name="Path 21252"/>
+        <path id="Path_21253" d="M46.97 55.49A5 5 0 0 1 42 60H13v-3h30a5.964 5.964 0 0 0 3.97-1.51z" class="cls-6" data-name="Path 21253"/>
+        <path id="Rectangle_2307" d="M0 0H6V56H0z" class="cls-2" data-name="Rectangle 2307" transform="translate(35 1)"/>
+        <path id="Path_21254" d="M46.97 55.49A5.964 5.964 0 0 1 43 57h-2V1h2a6 6 0 0 1 6 6v44a5.936 5.936 0 0 1-2.03 4.49z" class="cls-7" data-name="Path 21254"/>
+        <path id="Path_21255" d="M35 1v56H5a4 4 0 0 1-4-4V5a4 4 0 0 1 4-4z" class="cls-7" data-name="Path 21255"/>
+        <path id="Rectangle_2308" d="M0 0H14V2H0z" class="cls-8" data-name="Rectangle 2308" transform="translate(6 6)"/>
+        <path id="Rectangle_2309" d="M0 0H6V2H0z" class="cls-8" data-name="Rectangle 2309" transform="translate(6 10)"/>
+        <path id="Path_21256" d="M7 57H5a4 4 0 0 1-4-4v2a3 3 0 0 0 3 3h1a1 1 0 0 1 1 1v1h1z" class="cls-9" data-name="Path 21256"/>
+        <path id="Path_21257" d="M17 58h27a2.994 2.994 0 0 0 2.949-2.5A5.959 5.959 0 0 1 43 57H13v3h2a2 2 0 0 1 2-2z" class="cls-9" data-name="Path 21257"/>
+        <path id="Path_21258" fill="#b32e37" d="M9 58h4v-1H7v6l1-.667V59a1 1 0 0 1 1-1z" data-name="Path 21258"/>
+        <path id="Rectangle_2310" d="M0 0H6V5H0z" class="cls-4" data-name="Rectangle 2310" transform="translate(35 52)"/>
+        <path id="Path_21259" d="M42 52h-1v5h2a6.016 6.016 0 0 0 6-6v-6a7 7 0 0 1-7 7z" class="cls-11" data-name="Path 21259"/>
+        <path id="Path_21260" d="M33 1v50a1 1 0 0 1-1 1h-2A24 24 0 0 1 6 28V1H5a4 4 0 0 0-4 4v48a4 4 0 0 0 4 4h30V1z" class="cls-11" data-name="Path 21260"/>
+    </g>
+</svg>

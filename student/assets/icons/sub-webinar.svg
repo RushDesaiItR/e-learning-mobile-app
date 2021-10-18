@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="52" viewBox="0 0 62 52">
+    <defs>
+        <style>
+            .cls-4{fill:#edf4fa}.cls-6{fill:#dd933c}.cls-7{fill:#c1cfe8}.cls-12{fill:#365587}.cls-13{fill:#fbfbfb}
+        </style>
+    </defs>
+    <g id="_11-Blackboard" data-name="11-Blackboard" transform="translate(-1 -6)">
+        <path id="Rectangle_2337" fill="#4c76bd" d="M0 0H56V43H0z" data-name="Rectangle 2337" transform="translate(4 9)"/>
+        <path id="Path_21318" fill="#bd731c" d="M6 52h57v6H1v-6h5z" data-name="Path 21318"/>
+        <path id="Path_21319" fill="#ffbe4f" d="M1 6h62v46h-3V9H4v43H1z" data-name="Path 21319"/>
+        <path id="Rectangle_2338" d="M0 0H10V3H0z" class="cls-4" data-name="Rectangle 2338" transform="translate(49 49)"/>
+        <path id="Rectangle_2339" d="M0 0H10V3H0z" class="cls-4" data-name="Rectangle 2339" transform="translate(36 49)"/>
+        <path id="Path_21320" fill="#a16218" d="M6 52v1a2 2 0 0 0 2 2h55v3H1v-6z" data-name="Path 21320"/>
+        <path id="Path_21321" d="M63 52h-3V9H4v43H1v-3a2 2 0 0 0 2-2V8h58v39a2 2 0 0 0 2 2z" class="cls-6" data-name="Path 21321"/>
+        <path id="Path_21322" d="M38 49v1a1 1 0 0 0 1 1h7v1H36v-3z" class="cls-7" data-name="Path 21322"/>
+        <path id="Path_21323" d="M51 49v1a1 1 0 0 0 1 1h7v1H49v-3z" class="cls-7" data-name="Path 21323"/>
+        <path id="Rectangle_2340" d="M0 0H8V3H0z" class="cls-4" data-name="Rectangle 2340" transform="translate(4 44)"/>
+        <path id="Rectangle_2341" d="M0 0H8V3H0z" class="cls-4" data-name="Rectangle 2341" transform="translate(16 44)"/>
+        <path id="Rectangle_2342" fill="#8394b2" d="M0 0H4V3H0z" data-name="Rectangle 2342" transform="translate(12 44)"/>
+        <path id="Path_21324" fill="#b0582a" d="M24 47v3a2.006 2.006 0 0 1-2 2H6a2.006 2.006 0 0 1-2-2v-3z" data-name="Path 21324"/>
+        <path id="Path_21325" fill="#994d25" d="M23 50H8a1 1 0 0 1-1-1v-2H4v3a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2v-1a1 1 0 0 1-1 1z" data-name="Path 21325"/>
+        <path id="Path_21326" d="M12 44v3H4v-1h6a1 1 0 0 0 1-1v-1z" class="cls-7" data-name="Path 21326"/>
+        <path id="Path_21327" d="M16 44v3h8v-1h-6a1 1 0 0 1-1-1v-1z" class="cls-7" data-name="Path 21327"/>
+        <path id="Path_21328" fill="#5c6979" d="M12 44v3h4v-1h-2a1 1 0 0 1-1-1v-1z" data-name="Path 21328"/>
+        <path id="Path_21329" d="M58 49v-1H48v4h1v-3z" class="cls-12" data-name="Path 21329"/>
+        <path id="Path_21330" d="M45 49v-1H35v4h1v-3z" class="cls-12" data-name="Path 21330"/>
+        <path id="Path_21331" d="M6 52a2.006 2.006 0 0 1-2-2v2z" class="cls-12" data-name="Path 21331"/>
+        <path id="Path_21332" d="M14 43H4v1h18v-1z" class="cls-12" data-name="Path 21332"/>
+        <path id="Path_21333" d="M2 43v7a2.006 2.006 0 0 0 2 2v-9z" class="cls-6" data-name="Path 21333"/>
+        <path id="Path_21334" d="M20 28h-2v-2a1 1 0 0 0-2 0v2h-2a1 1 0 0 0 0 2h2v2a1 1 0 0 0 2 0v-2h2a1 1 0 0 0 0-2z" class="cls-13" data-name="Path 21334"/>
+        <path id="Path_21335" d="M40.537 25.463a1 1 0 0 0-1.414 0L37 27.586l-2.123-2.123a1 1 0 1 0-1.414 1.414L35.586 29l-2.123 2.123a1 1 0 1 0 1.414 1.414L37 30.414l2.123 2.123a1 1 0 1 0 1.414-1.414L38.414 29l2.123-2.123a1 1 0 0 0 0-1.414z" class="cls-13" data-name="Path 21335"/>
+        <path id="Path_21336" d="M30 28h-6a1 1 0 0 0 0 2h6a1 1 0 0 0 0-2z" class="cls-13" data-name="Path 21336"/>
+        <path id="Path_21337" d="M50 28h-6a1 1 0 0 0 0 2h6a1 1 0 0 0 0-2z" class="cls-13" data-name="Path 21337"/>
+        <path id="Path_21338" d="M47 27a.99.99 0 1 0-.71-.29A1.052 1.052 0 0 0 47 27z" class="cls-13" data-name="Path 21338"/>
+        <path id="Path_21339" d="M46.29 31.29a1 1 0 1 0 1.42 0 1.047 1.047 0 0 0-1.42 0z" class="cls-13" data-name="Path 21339"/>
+    </g>
+</svg>

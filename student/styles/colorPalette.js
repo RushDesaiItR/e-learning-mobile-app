@@ -1,0 +1,48 @@
+export const MainColorPalette={
+primary_b : "#212780",
+primary_y : "#F0BB0F",
+primary_g : "#0A7860",
+d_red : "#CF1B1B",
+d_bg : "#f3f6f9",
+white:"#ffffff",
+gray:"#c1cee0",
+grayesh:"#616770",
+link_color:"#0e90ff",
+menu_icon_color:"#8E93D1",
+grayesh_secondary : "#b7b9ba",
+grayesh_third:"#877c81",
+grayesh_fourth:"#707070",
+textColor:"#24101a",
+para_color:"#939ab4"
+
+}
+export const ColorPalette = {
+  
+    0: "#c92e2e",
+    1: "#cf5d1f",
+    2: "#A28A3C",
+    3: "#bac92e",
+    4: "#3CA25F",
+    5: "#36c92e",
+    6: "#2ec9a0",
+    7: "#2eb7c9",
+    8: "#2e6fc9",
+    9: "#1f31cf",
+    10: "#27A097",
+    11: "#467993",
+    12: "#464F93",
+    13: "#A23C3C",
+    14: "#604B4B",
+    15: "#7C2588",
+    16: "#88255e",
+    17: "#c92e90",
+    18: "#cf1f74",
+    19: "#b22ec9",
+    20: "#FF8327",
+    21: "#F4DC27",
+    22: "#27F4DC",
+    23: "#27D4F4",
+    24: "#ED00ED",
+    25: "#C370B0",
+  
+};

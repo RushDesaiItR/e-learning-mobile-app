@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.67" height="45.671" viewBox="0 0 45.67 45.671">
+    <defs>
+        <style>
+            .cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="geometry" opacity="0.09">
+        <g id="Group_4591" data-name="Group 4591" transform="translate(.073 .075)">
+            <g id="Group_4590" data-name="Group 4590">
+                <path id="Path_20223" d="M45.607 45.6V0L.011 45.6zm-2.978-2.978H40.9v-2.943h-2.983v2.939h-1.5v-2.044h-2.975v2.044h-1.5v-2.044h-2.975v2.044h-1.5v-2.939h-2.975v2.939H23v-2.044h-2.983v2.044h-1.5v-2.044h-2.975v2.044h-1.5v-2.939h-2.975v2.939H7.2L42.629 7.19z" class="cls-2" data-name="Path 20223" transform="translate(-.011)"/>
+            </g>
+        </g>
+        <g id="Group_4593" data-name="Group 4593" transform="translate(20.544 20.546)">
+            <g id="Group_4592" data-name="Group 4592">
+                <path id="Path_20224" d="M111.714 111.7V95.058L95.068 111.7zm-2.978-2.978h-6.478l6.478-6.478z" class="cls-2" data-name="Path 20224" transform="translate(-95.068 -95.058)"/>
+            </g>
+        </g>
+        <g id="Group_4595" data-name="Group 4595">
+            <g id="Group_4594" data-name="Group 4594">
+                <path id="Path_20225" d="M143.676 166.238a3.7 3.7 0 0 0 0 5.234l3.018 3.018a3.705 3.705 0 0 0 5.234 0l.473-.473.585.585 5.063-5.063-.585-.585 15.036-15.035 3.043-11.3-11.3 3.043-15.031 15.038-.585-.585-5.063 5.063.585.585zm11.683.611l-.967-.967 13.7-13.7.967.967zm15.963-20l-.924 3.429-2.5-2.5zm-6.3 2.262l.967.967-13.7 13.7-.518-.518-.45-.45zm-16.392 15.222l5.211 5.211-.851.851-5.211-5.211zm-2.845 4.015l.473-.473 4.041 4.041-.473.473a.723.723 0 0 1-1.022 0l-3.018-3.018a.723.723 0 0 1 0-1.022z" class="cls-2" data-name="Path 20225" transform="translate(-142.592 -142.624)"/>
+            </g>
+        </g>
+    </g>
+</svg>

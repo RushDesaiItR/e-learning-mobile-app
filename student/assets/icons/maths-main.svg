@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="geometry" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_4591" data-name="Group 4591" transform="translate(.039 .039)">
+        <g id="Group_4590" data-name="Group 4590">
+            <path id="Path_20223" d="M23.971 23.961V0L.011 23.961zM22.407 22.4H21.5v-1.549h-1.57V22.4h-.787v-1.079h-1.564V22.4h-.787v-1.079h-1.565V22.4h-.787v-1.549h-1.564V22.4h-.787v-1.079h-1.565V22.4h-.787v-1.079H8.172V22.4h-.786v-1.549H5.821V22.4H3.789L22.407 3.778z" class="cls-1" data-name="Path 20223" transform="translate(-.011)"/>
+        </g>
+    </g>
+    <g id="Group_4593" data-name="Group 4593" transform="translate(10.796 10.797)">
+        <g id="Group_4592" data-name="Group 4592">
+            <path id="Path_20224" d="M103.815 103.805v-8.747l-8.747 8.747zm-1.565-1.565h-3.4l3.4-3.4z" class="cls-1" data-name="Path 20224" transform="translate(-95.068 -95.058)"/>
+        </g>
+    </g>
+    <g id="Group_4595" data-name="Group 4595">
+        <g id="Group_4594" data-name="Group 4594">
+            <path id="Path_20225" d="M143.162 155.033a1.945 1.945 0 0 0 0 2.751l1.586 1.586a1.947 1.947 0 0 0 2.751 0l.249-.249.307.307 2.66-2.66-.307-.307 7.9-7.9 1.6-5.936-5.936 1.6-7.9 7.9-.307-.307-2.66 2.661.307.307zm6.139.321l-.508-.508 7.2-7.2.508.508zm8.388-10.511l-.485 1.8-1.316-1.316zm-3.312 1.188l.508.508-7.2 7.2-.272-.272-.236-.236zm-8.614 8l2.738 2.738-.447.447-2.738-2.738zm-1.5 2.11l.249-.249 2.123 2.123-.249.249a.38.38 0 0 1-.537 0l-1.586-1.586a.38.38 0 0 1 0-.537z" class="cls-1" data-name="Path 20225" transform="translate(-142.592 -142.624)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,57 @@
+
+.clickable-action{
+    &:hover {
+        position: relative;
+        bottom: 10px;
+        cursor: pointer;
+      }
+}
+.subject-container{
+    position: relative;
+    height: 130px;
+    display: inline-flex;
+    width: fit-content;
+    
+    .book-image{
+        height: 100%;
+        display: flex;
+        
+    }
+    .subject-content{
+        position: absolute;
+        display: flex;
+        width: 60%;
+        flex-direction: column;
+        align-items: center;
+        bottom:30%;
+        left:30%;
+        
+        .name{
+            color:#fff;
+            font-size: 10px;
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            text-align: center;
+        }
+        .classroom-name{
+            color:#fff;
+            font-size: 10px;
+        }
+        .graphic{
+            height: 24px;
+            margin: 10px;
+            path{
+                fill:#fff
+            }
+            rect{
+                fill:#fff
+            }
+            polygon{
+                fill:#fff
+            }
+        }
+    }
+    
+}

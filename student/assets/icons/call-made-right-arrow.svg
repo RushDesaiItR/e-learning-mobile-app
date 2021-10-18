@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.635" height="13.635" viewBox="0 0 13.635 13.635">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00132e;
+      }
+    </style>
+  </defs>
+  <g id="call-made-right-arrow" transform="translate(13.635 6.817) rotate(135)">
+    <g id="call-made" transform="translate(0 0)">
+      <path id="Path_119" data-name="Path 119" class="cls-1" d="M3.615,9.641V8.436H7.592L0,.844.844,0,8.436,7.592V3.615H9.641V9.641Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
